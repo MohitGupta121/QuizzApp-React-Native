@@ -15,15 +15,7 @@
 ## 🎥 Preview
 
 
-
-
-https://github.com/MohitGupta121/QuizzApp-React-Native/assets/76530270/ba576878-d4fc-479d-affe-3aa04e014bd1
-
-
-
-
-
-
+https://github.com/MohitGupta121/QuizzApp-React-Native/assets/76530270/454e0b31-64f9-424d-93d7-92d8423f5c21
 
 
 
