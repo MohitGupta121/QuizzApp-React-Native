@@ -1,8 +1,32 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Quiz App
+
+**Quiz App** is a simple ✅ Quiz Android application 📱 using React-Native with two Users.
+
+***You can Install and test the Quiz App app from below 👇***
+
+[![Quiz Zone](https://img.shields.io/badge/QuizZone✅-APK-red.svg?style=for-the-badge&logo=android)](https://drive.google.com/file/d/1f10ZU4uAkoiKoPCTp5rtsvVGXacP33-6/view?usp=sharing)
+
+## ⚙️ Features
+* Point System
+* 2 Users can Play
+* Tiebreaker Screen
+* Score Card
+
+## 🎥 Preview
+
+
+
+
+
+
+
+
+
+
 
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+>**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till the "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
 
